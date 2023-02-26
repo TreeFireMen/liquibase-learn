@@ -1,0 +1,9 @@
+/.idea/*
+/liquibase/.mvn/
+/liquibase/.gitignore
+/liquibase/*.iml
+/liquibase/mvnw
+
+
+/.idea/
+
